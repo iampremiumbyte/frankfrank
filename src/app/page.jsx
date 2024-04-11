@@ -79,7 +79,7 @@ const page = () => {
           </div>
           <div className='flex flex-col text-center'>
             <div className='text-4xl font-black text-white'>supply</div>
-            <div className='text-4xl font-black text-white'>100,000,000,000</div>
+            <div className='text-4xl font-black text-white'>1,000,000,000</div>
           </div>
         </div>
       </div>
